@@ -2,6 +2,7 @@
     "name": "mi-extension",
     "displayName": "mi-extension",
     "description": "",
+    "publisher": "JorgeGarnica",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
