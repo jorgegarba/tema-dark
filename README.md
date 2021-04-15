@@ -1,4 +1,1 @@
-# README
-## This is the README for your extension "mi-extension"
-
-**Enjoy!**
+Enjoy my dark-copy extension
