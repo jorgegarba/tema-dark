@@ -1,0 +1,31 @@
+{
+    "name": "mi-extension",
+    "displayName": "mi-extension",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "icon": "icons/bats.png",
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "url": "https://github.com/jorgegarba/tema-dark.git",
+        "type": "git"
+    },
+    "author": {
+        "name": "Jorge Garnica",
+        "email": "jorgegarba@gmail.com",
+        "url": "https://www.linkedin.com/in/jgarnicablanco/"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "mi-extension",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mi-extension-color-theme.json"
+            }
+        ]
+    }
+}
